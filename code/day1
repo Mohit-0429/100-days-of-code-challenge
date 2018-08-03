@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<h1>Mohit Arora</h1>
+<h2>programmer</h2>
+<h3>arora.mohit66@gmail.com</h3>
+<h3>8171896915</h3><hr>
+ <h2>Education Credentials:</h2>
+    <table>
+    <tr>
+      <th>Name of Degree</th>
+      <th>University</th>
+      <th>Major</th>
+      <th>  CGPA</th>
+    </tr>
+    <tr>
+      <td>10th(2011)</td>
+      <td>CBSE Board</td>
+      <td>Science</td>
+      <td> 82%</td>
+    </tr>
+    <tr>
+      <td>12th(2013)</td>
+      <td>CBSE borad</td>
+      <td>PCM</td>
+      <td> 76%</td>
+    </tr>
+    <tr>
+      <td>B.com(2017)</td>
+      <td>MJPRU University</td>
+      <td> </td>
+      <td> 62%</td>
+    </tr>
+    
+  </table><hr>
+
+
+
+<h2>Technical skill</h2>
+<ul>
+<h4>
+<li>HTML</li>
+<li>CSS</li>
+<li>C</li>
+<li>Java</li></h4>
+</ul><hr>
+<h2>Projects</h2>
+<ul><h4>
+<li>Code Editor</li>
+<li>Hospital website</li>
+</ul>
+</body>
+
+</html>
