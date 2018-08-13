@@ -1,0 +1,15 @@
+class Sample{
+piblic static void main(string... args)
+{
+sum(10,20,32);
+}
+void sum(int...a)
+{
+int total=0;
+for(int i=0;i<a.length;i++)
+{
+total=total+i;
+}
+system.out.println(total);
+}
+}
